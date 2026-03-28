@@ -1,6 +1,5 @@
 #  (ULA) de 8 Bits
 LINK DO VIDEO: https://youtu.be/bklzyYNinSY
-Este repositório documenta o projeto e a implementação em nível de portas lógicas (*Gate-Level*) dos principais módulos operacionais de uma Unidade Lógica e Aritmética (ULA). O projeto adota uma arquitetura rigorosa **Bottom-Up**, onde portas lógicas fundamentais abstraem componentes progressivamente mais complexos, culminando em matrizes combinacionais robustas para multiplicação e divisão.
 
 ---
 
